@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+button {
+    color: blue;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    width: 10vh;
+    height: 5vh;
+}
+
+button:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(105, 105, 105);
+    border: 1px solid rgb(0, 0, 0);
+}
